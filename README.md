@@ -3,7 +3,7 @@
 ## Intuito deste projeto
 
 ```bash
-# Aprender sobre:
+# Entender mais sobre:
 
 # Roteamento
 # Route Params
