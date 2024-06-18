@@ -8,7 +8,7 @@
 # Roteamento
 # Route Params
 # NuxtLink
-# Layouts
+# Layouts - (most important)
 # Reusable Components
 # Error Pages
 # Dynamic Server Routes
